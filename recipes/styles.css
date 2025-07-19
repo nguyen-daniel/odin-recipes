@@ -1,0 +1,13 @@
+h1.persona5 {
+  color: red;
+}
+
+h1.persona4 {
+  color: gold;
+}
+
+h1.persona4,
+h1.persona5 {
+  text-align: center;
+  font-family: "Lucida Console", "Courier New", monospace;
+}
